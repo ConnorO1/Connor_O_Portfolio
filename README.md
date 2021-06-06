@@ -11,5 +11,5 @@ My data science project portfolio
 + 4 models built and 2 optimised using GridSearchCv.
 + Best classification model found was a optimised logistic regression model (app. 81% acc on validation set).
 
-![](https://github.com/ConnorO1/Connor_O_Portfolio/blob/main/images/output2.png "Logo Title Text 2")
+![](/images/output2.png "Logo Title Text 2")
 
