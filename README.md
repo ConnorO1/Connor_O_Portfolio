@@ -11,7 +11,7 @@
 + Best classification model found was a optimised logistic regression model (app. 81% acc on validation set).
 
 <p align="center">
-  <img src="/images/output2.png">
+  <img src="https://github.com/ConnorO1/Connor_O_Portfolio/blob/main/images/output2.png">
 </p>
 
 
