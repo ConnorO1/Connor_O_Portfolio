@@ -1,5 +1,4 @@
-# Connor's Portfolio
-A collection of data science projects
+# Project List
 
 [Project 1: Titanic_Model](https://github.com/ConnorO1/Titanic_Model)
 ========================
