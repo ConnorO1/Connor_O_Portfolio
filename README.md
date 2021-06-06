@@ -1,7 +1,7 @@
 # Project List
 
-[Project 1: Titanic_Model](https://github.com/ConnorO1/Titanic_Model)
-========================
+## [Project 1: Titanic_Model](https://github.com/ConnorO1/Titanic_Model)
+
 #### Developing a model to predict survival onboard the Titanic
 
 + This is a project based on the competition from kaggle here: https://www.kaggle.com/c/titanic.
@@ -10,5 +10,8 @@
 + 4 models built and 2 optimised using GridSearchCv.
 + Best classification model found was a optimised logistic regression model (app. 81% acc on validation set).
 
-![](/images/output2.png)
+<p align="center">
+  <img src="/images/output2.png">
+</p>
+
 
