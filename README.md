@@ -1,5 +1,5 @@
-# Connor_O_Portfolio
-My data science project portfolio
+# Connor's Portfolio
+A collection of data science projects
 
 [Project 1: Titanic_Model](https://github.com/ConnorO1/Titanic_Model)
 ========================
