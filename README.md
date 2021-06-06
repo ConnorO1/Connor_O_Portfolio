@@ -1,7 +1,7 @@
 # Connor_O_Portfolio
 My data science project portfolio
 
-Project 1: Titanic_Model
+[Project 1: Titanic_Model](https://github.com/ConnorO1/Titanic_Model)
 ========================
 #### Developing a model to predict survival onboard the Titanic
 
