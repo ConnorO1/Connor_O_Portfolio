@@ -11,7 +11,7 @@
   - One test score could be included in model as a feature
   - SVM (regressor), NN or Decision tree regressor(and variants) could also be tested and compared
 
-![Combined Image](https://github.com/ConnorO1/Student_Performance/blob/main/images/image_combined.png "Title")
+![](https://github.com/ConnorO1/Student_Performance/blob/main/images/image_combined.png)
 
 
 ## [Project 2: Titanic_Model](https://github.com/ConnorO1/Titanic_Model)
@@ -25,6 +25,6 @@
 + Model and parameter search was not exhaustive. Improvements to be made.
 
 
-![Titanic Image](https://github.com/ConnorO1/Connor_O_Portfolio/blob/main/images/output2.png "Title")
+![](https://github.com/ConnorO1/Connor_O_Portfolio/blob/main/images/output2.png)
 
 
