@@ -7,25 +7,24 @@
 + Data visualisaiton with matplotlib and seaborn.
 + Simple linear regression model built (MSE = 10 on test set)
 #### Potential improvements:   
-  - Categorical feature variables don't provide enough info to make accurate prediction
+  - Categorical feature variables not descriptive enough to make accurate prediction
   - One test score could be included in model as a feature
   - SVM (regressor), NN or Decision tree regressor(and variants) could also be tested and compared
 
-<p align="center">
-  <img src="https://github.com/ConnorO1/Student_Performance/blob/main/images/image_combined.png">
-</p>
+![Combined Image](https://github.com/ConnorO1/Student_Performance/blob/main/images/image_combined.png "Title")
+
 
 ## [Project 2: Titanic_Model](https://github.com/ConnorO1/Titanic_Model)
 
 #### Developing a model to predict survival onboard the Titanic
 
-+ This is a project based on the competition from kaggle here: https://www.kaggle.com/c/titanic.
-+ Data was provided by kaggle, description of data can be found in the link above.
-+ Data visualisation with seaborn and Data Cleaning (Imputing, OneHotEncoding, Scaling) with sklearn.
-+ 4 models built and 2 optimised using GridSearchCv.
-+ Best classification model found was a optimised logistic regression model (app. 81% acc on validation set).
++ Data was provided by kaggle, description of data can be found here: https://www.kaggle.com/c/titanic.
++ Initial EDA inclusing Data visualisation and Data Cleaning using common python libraries (seaborn, sklearn).
++ Binary classification task: 4 models built and best performers optimised using GridSearchCv.
++ Best classification model found was an optimised logistic regression model.
++ Model and parameter search was not exhaustive. Improvements to be made.
 
-<p align="center">
-  <img src="https://github.com/ConnorO1/Connor_O_Portfolio/blob/main/images/output2.png">
-</p>
+
+![Titanic Image](https://github.com/ConnorO1/Connor_O_Portfolio/blob/main/images/output2.png "Title")
+
 
