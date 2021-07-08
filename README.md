@@ -1,8 +1,5 @@
 # Project List
 
-# Predict_Absenteeism
-ML project to predict Absenteeism from work
-
 ## [Project 1: Predicting Absenteeism from work](https://github.com/ConnorO1/Predict_Absenteeism-)
 #### Determining features that indicate increased likelihood of extended absence from work
 + Data cleaning and feature engineering in python.
