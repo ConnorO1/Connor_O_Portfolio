@@ -8,7 +8,7 @@
 + Module built to process and predict new entries.
 + New data visualised on tableau: [Tableau Public Viz](https://public.tableau.com/app/profile/connor5319/viz/AbsenteeismViz_16256837194020/Sheet1) 
 
-![](/images/Sheet%203.png) 
+![](/images/sheet3.png) 
 
 ## [Project 2: Student Performance Analysis](https://github.com/ConnorO1/Student_Performance)
 #### Looking at factors that influence test performance
